@@ -79,9 +79,6 @@
 
     .bg-full-width.bg-fondo-3.mb-3
       .px-4.px-md-5.pb-5
-        .titulo-sexto.color-acento-contenido.mb-4(data-aos="flip-up")
-          h5 Figura 1. 
-          span Colesterol en el intestino  
 
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-7
@@ -93,6 +90,9 @@
               div(titulo="Excreción")
                 p La baja absorción, combinada con una alta tasa de excreción biliar, mantiene la concentración de esteroles vegetales en plasma a niveles bajos en condiciones normales.
           .col-lg-5
+            .titulo-sexto.color-acento-contenido.mb-4(data-aos="flip-up")
+              h5 Figura 1. 
+              span Colesterol en el intestino  
             img(src="@/assets/curso/tema3/28.png", style="max-width: 505px", alt="").m-auto
 
     

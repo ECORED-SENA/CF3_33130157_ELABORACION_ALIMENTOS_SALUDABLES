@@ -123,9 +123,24 @@
     background-position: bottom
   &-4
     background-image: url("../assets/curso/bg/bg4.png") !important
-    background-position: bottom
+    background-position: top
   &-5
     background-image: url("../assets/curso/bg/bg5.png") !important
+  &-6
+    background-image: url("../assets/curso/bg/bg6.png") !important
+  &-4b
+    background-image: url("../assets/curso/bg/bg4.png") !important
+    background-position: bottom
+    max-height: 545px
+  &-7
+    background-image: url("../assets/curso/bg/bg7.png") !important
+    background-position: top
+  &-8
+    background-image: url("../assets/curso/bg/bg8.png") !important
+    background-position: top
+  &-9
+    background-image: url("../assets/curso/bg/bg9.png") !important
+    background-position: top
   &-gradiente
     background: rgb(254, 213, 123)
     background: linear-gradient(90deg, rgba(254, 213, 123,1) 53%, rgba(243, 250, 233,1) 53%)
@@ -241,6 +256,25 @@ $custom-card-img-height: 116px
   .custom-image-card
     margin-bottom: 20px
 
+// Estilos
+.custom-image-card-3
+  border-radius: $custom-card-border-radius
+  overflow: hidden
+  box-shadow: $custom-card-shadow
+  height: 100%
+  background-color: $custom-card-text-bg
+  transition: transform 0.3s ease /* Duración y suavidad del efecto */
+  cursor: pointer
+  &:hover
+    transform: scale(1.05)
+  &__image
+    height: 180px
+    object-fit: cover
+
+// Media queries para responsividad
+@media (max-width: 768px)
+  .custom-image-card-3
+    margin-bottom: 20px
 
 // Custom List Styles
 .custom-list
@@ -353,3 +387,5 @@ $custom-card-img-height: 116px
 .tabs-a__tab
   background: #E8F5D5
 
+.tabla-a table 
+  min-width: 100% !important
