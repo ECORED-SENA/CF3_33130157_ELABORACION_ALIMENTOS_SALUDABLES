@@ -117,31 +117,107 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Componentes bioactivos',
+      referencia:
+        'Top Doctors LATAM (2023). Beneficios de los Compuestos Bioactivos. [Archivo de video] YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Nvoy0L9BgC0',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Carotenoides',
+      referencia:
+        'Instituto de Investigaciones Agrícolas | UCR (2019). ¿Qué son los carotenoides y porqué debemos incluirlos en nuestra dieta?. [Archivo de video] YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=hCOf1DFg5rM',
+    },
+    {
+      tema: 'Esteroles vegetales',
+      referencia:
+        'xNutricion Clinica. (2023). FITOESTEROLES para BAJAR el COLESTEROL | Esteroles vegetales contra colesterol | Nutrición clínica. [Archivo de video] YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=lUJWgiV9pZw',
+    },
+    {
+      tema: 'Los ácidos grasos Omega 3, 6 y 9',
+      referencia:
+        'Dr. Carlos Jaramillo (2021).11 Grandes Beneficios del OMEGA 3 | Dr. Carlos Jaramillo. [Archivo de video] YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=qaP3ALloONE',
+    },
+    {
+      tema: 'La actividad física como factor clave para la salud',
+      referencia:
+        'Aprendemos Juntos 2030. (2020). Los beneficios del ejercicio para tu cerebro. Wendy Suzuki, neurocientífica. [Archivo de video] YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=PXvz8zyuob0&t=9s',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Actividad física',
+      significado:
+        'movimiento corporal que requiere gasto energético y aporta beneficios a la salud física y mental.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Antioxidantes',
+      significado:
+        'sustancias que protegen las células del daño causado por los radicales libres.',
+    },
+    {
+      termino: 'Carotenoides',
+      significado:
+        'pigmentos naturales presentes en plantas, responsables de los colores amarillo, naranja y rojo.',
+    },
+    {
+      termino: 'Catequinas',
+      significado:
+        'polifenoles presentes en el té verde que poseen propiedades antioxidantes y anticancerígenas.',
+    },
+    {
+      termino: 'Fitoesteroles',
+      significado:
+        'compuestos vegetales que ayudan a reducir los niveles de colesterol en el cuerpo.',
+    },
+    {
+      termino: 'LDL',
+      significado:
+        'lipoproteína de baja densidad, conocida como el "colesterol malo".',
+    },
+    {
+      termino: 'Omega-3',
+      significado:
+        'ácido graso esencial que beneficia la salud cardiovascular y cerebral.',
+    },
+    {
+      termino: 'Omega-6',
+      significado:
+        'ácido graso poliinsaturado necesario para la función celular, pero su exceso puede ser perjudicial.',
+    },
+    {
+      termino: 'Omega-9',
+      significado:
+        'ácido graso monoinsaturado que ayuda a reducir el colesterol malo y mejorar el colesterol bueno.',
+    },
+    {
+      termino: 'Polifenoles',
+      significado:
+        'antioxidantes presentes en alimentos que protegen las células del daño causado por radicales libres.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Begolla, O. y Granada, F. (2008). Bioactivos. Madrid, España: Subdirección General de Alimentos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Boatella, J., Codoy, R. y López, A. (2010). Química y Bioquímica de los Alimentos. Barcelona, España. Ediciones de la Universidad de Barcelona.',
+      link: '',
+    },
+    {
+      referencia:
+        'Gil, A. y Ruiz, D. (2010). Tratado de nutrición. Madrid: Médica Panamericana.',
       link: '',
     },
   ],
@@ -165,8 +241,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Ángela Viviana Páez Perilla',
+          cargo: 'Experta temática',
+          centro: 'Centro Agroindustrial  - Regional Quindío',
+        },
+        {
+          nombre: 'Paola Alexandra Moya ',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -175,12 +256,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Andrés Felipe Herrera',
           cargo: 'Diseñador de contenidos',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edgar Mauricio Cortés García',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
@@ -196,12 +277,12 @@ export default {
       autores: [
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
