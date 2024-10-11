@@ -226,7 +226,7 @@
           .row.justify-content-center.align-items-stretch.g-0.mb-5
             .col-lg-8(data-aos="fade-left")
               .p-4
-                ul.custom-list
+                ul.custom-list.mt-4
                   li.mb-1 Actúan como potentes antioxidantes, protegiendo el cuerpo del daño de los radicales libres.
                   li.mb-1 Interfieren en la adhesión de sustancias cancerígenas al ADN de las células.
                   li.mb-0 Colaboran con antioxidantes y enzimas del intestino, hígado y pulmones para inhibir la formación de tumores.
