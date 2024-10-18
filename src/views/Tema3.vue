@@ -41,7 +41,7 @@
               img(src='@/assets/curso/tema3/23.svg', alt='', style="max-width: 90px").mx-auto.mb-4
               .bg-color-6.d-inline-block.p-2.mb-3
                 h5.text-center.mb-0 #[strong Reducción del colesterol]
-              p.text-center Desde los años 50, los fitoesteroles han demostrado reducir los niveles de colesterol. En cantidades adecuadas, inhiben hasta un 14% de la absorción de colesterol. Más de 60 estudios clínicos han validado su eficacia.
+              p.text-center Desde los años 50, los fitoesteroles han demostrado reducir los niveles de colesterol. En cantidades adecuadas, inhiben hasta un 14 % de la absorción de colesterol. Más de 60 estudios clínicos han validado su eficacia.
 
           .col-lg-4.mb-4
             .tarjeta--boton.bg-color-3.p-4.text-center.h-100(data-aos="flip-up")
@@ -55,7 +55,7 @@
               img(src='@/assets/curso/tema3/25.svg', alt='', style="max-width: 90px").mx-auto.mb-4
               .bg-color-7.d-inline-block.px-2.py-1.mb-3
                 h5.text-center.mb-0 #[strong Impacto en la salud cardiovascular]
-              p.text-center Una reducción del 10% en el colesterol plasmático puede reducir el riesgo de enfermedad cardiovascular entre un 20% y un 55%, dependiendo de factores como la edad y condiciones individuales.
+              p.text-center Una reducción del 10 % en el colesterol plasmático puede reducir el riesgo de enfermedad cardiovascular entre un 20 % y un 55 %, dependiendo de factores como la edad y condiciones individuales.
 
         .row.justify-content-center.align-items-center
           .col-lg-8
@@ -84,16 +84,16 @@
           .col-lg-7
             AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-2")
               div(titulo="Ingesta recomendada")
-                p Un consumo diario de 1,5 g de esteroles vegetales puede reducir los niveles de colesterol en un 10-15% en tres meses, disminuyendo el riesgo de enfermedades cardiovasculares en un 25%.
+                p Un consumo diario de 1,5 g de esteroles vegetales puede reducir los niveles de colesterol en un 10-15 % en tres meses, disminuyendo el riesgo de enfermedades cardiovasculares en un 25 %.
               div(titulo="Absorción")
-                p Los esteroles vegetales tienen una absorción menor al 5%, mientras que el colesterol se absorbe entre un 40% y 70%.
+                p Los esteroles vegetales tienen una absorción menor al 5 %, mientras que el colesterol se absorbe entre un 40 % y 70 %.
               div(titulo="Excreción")
                 p La baja absorción, combinada con una alta tasa de excreción biliar, mantiene la concentración de esteroles vegetales en plasma a niveles bajos en condiciones normales.
           .col-lg-5
             .titulo-sexto.color-acento-contenido.mb-4(data-aos="flip-up")
               h5 Figura 1. 
               span Colesterol en el intestino  
-            img(src="@/assets/curso/tema3/28.png", style="max-width: 505px", alt="").m-auto
+            img(src="@/assets/curso/tema3/28.png", style="max-width: 505px", alt="El diagrama ilustra el ciclo del colesterol en el cuerpo, destacando dos fuentes principales: el colesterol alimentario, que varía entre 250 y 500 mg por día, y el colesterol biliar, que es producido por el hígado en cantidades de 600 a 1000 mg diarios. La mitad del colesterol biliar es reabsorbido en el intestino, mientras que el otro 50% se excreta a través de las heces. El flujo del colesterol se representa mediante flechas, que indican tanto la absorción como la excreción del mismo, señalando que el cuerpo mantiene un equilibrio entre estos procesos.").m-auto
 
     
     .row.justify-content-center.align-items-center.mb-5

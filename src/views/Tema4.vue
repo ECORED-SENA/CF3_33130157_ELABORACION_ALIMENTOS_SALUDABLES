@@ -58,28 +58,28 @@
                     th(style="width: 30%").text-center mg/ración
                 tbody.bg-color-white
                   tr
-                    td Manzana con piel (150g)
+                    td Manzana con piel (150 g)
                     td 166
                   tr
-                    td Uva negra (150g)
+                    td Uva negra (150 g)
                     td 133
                   tr
-                    td Té negro (200ml)
+                    td Té negro (200 ml)
                     td 132
                   tr
-                    td Té verde (200ml)
+                    td Té verde (200 ml)
                     td 319
                   tr
-                    td Vino tinto (100ml)
+                    td Vino tinto (100 ml)
                     td 106-178
                   tr
-                    td Moras (50g)
+                    td Moras (50 g)
                     td 116
                   tr
-                    td Chocolate negro (40g)
+                    td Chocolate negro (40 g)
                     td 189
                   tr
-                    td Naranja (150g)
+                    td Naranja (150 g)
                     td 74
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-5
@@ -87,7 +87,7 @@
 
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-8
-        p(data-aos="fade-left").mb-4 El té verde, proveniente de la planta Camellia sinensis, ha sido cultivado originalmente en Japón y utilizado en China por cerca de 4000 años, no solo por sus propiedades estimulantes, sino también por su capacidad para prevenir y tratar diversas dolencias.
+        p(data-aos="fade-left").mb-4 El té verde, proveniente de la planta <i>Camellia sinensis</i>, ha sido cultivado originalmente en Japón y utilizado en China por cerca de 4000 años, no solo por sus propiedades estimulantes, sino también por su capacidad para prevenir y tratar diversas dolencias.
 
         p(data-aos="fade-left").mb-4 El té es la segunda bebida más consumida en el mundo después del agua, con una producción anual de tres billones de kilogramos. A diferencia del té negro, el té verde no es fermentado; las hojas frescas se someten a torrefacción, luego se prensan, enrollan, trituran y secan. Los chinos fueron los primeros en descubrir el té, que se utilizaba como bebida medicinal para promover la salud física y mental durante milenios.
       .col-lg-4
@@ -165,7 +165,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        p(data-aos="fade-left").mb-5 El (-)-Epigalocatequina-3-galato (EGCG) es el polifenol más abundante en el té verde y representa más del 50% de las catequinas totales. Numerosos estudios sugieren que el EGCG es responsable de muchos de los beneficios para la salud asociados al consumo de té verde.
+        p(data-aos="fade-left").mb-5 El (-)-Epigalocatequina-3-galato (EGCG) es el polifenol más abundante en el té verde y representa más del 50 % de las catequinas totales. Numerosos estudios sugieren que el EGCG es responsable de muchos de los beneficios para la salud asociados al consumo de té verde.
       .col-lg-4
         img(src='@/assets/curso/tema4/41.png', alt='', style="max-width: 400px").mx-auto.mb-4
         
