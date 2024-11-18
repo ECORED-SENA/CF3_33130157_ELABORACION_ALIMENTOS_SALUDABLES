@@ -101,7 +101,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/33130157_CF03_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -266,8 +266,18 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'José Eduardo Solano Rivero ',
+          cargo: 'Animador y productor multimedia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Germán Acosta Ramos ',
+          cargo: 'Locución ',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'María Carolina Tamayo López ',
+          cargo: 'Locución ',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],

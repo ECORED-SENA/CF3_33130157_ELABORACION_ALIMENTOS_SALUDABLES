@@ -36,7 +36,7 @@
 
                   TarjetaAudio.color-primario.mb-3(
                     texto="Beneficios del ejercicio físico",
-                    :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                    :audio="require('@/assets/componentes/audios/beneficios_ejercicio_fisico.mp3')"
                     tiempo
                     @audio-hover="mostrarIndicadorTarjetaAudio = false"
                   )
